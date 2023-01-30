@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class DeckTester_7Fung{
+public class DeckTester{
    public static void main(String[] args){
       System.out.println("Testing Deck: ");
       Deck deck = new Deck();
