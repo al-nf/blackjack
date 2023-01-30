@@ -1,2 +1,2 @@
 # blackjack
-java project - blackjack sim
+simulator in java - AP CS A
